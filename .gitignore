@@ -1,0 +1,10 @@
+reports/
+tests_output/
+npm-debug.log.*
+.gitignore
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/voting_app.iml
+node_modules
